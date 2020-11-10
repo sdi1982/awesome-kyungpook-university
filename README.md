@@ -32,5 +32,3 @@
 서영균	데이터 공학 및 인텔리전스 연구실	https://sites.google.com/view/knudeal
 탁병철	분산시스템 연구실	http://sites.google.com/view/knudiscolab
 홍석인	컴퓨터구조 및 시스템 연구실	http://compasslab.knu.ac.kr
-
-
